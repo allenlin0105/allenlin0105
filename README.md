@@ -1,8 +1,8 @@
 # Hi 👋
 
-- 🌱 I’m currently learning web development and iOS development!
+- 🌱 I’m currently learning iOS development!
 - 📫 How to reach me
-  - [LinkedIn](linkedin.com/in/cheng-chun-lin)
+  - [LinkedIn](https://www.linkedin.com/in/cheng-chun-lin/)
   - Email: allen01690@gmail.com
   
 
