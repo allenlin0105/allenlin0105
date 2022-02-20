@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning web development and iOS development!
 - 📫 How to reach me
-  - [Facebook](https://www.facebook.com/allen.lin.7165/)
+  - [LinkedIn](linkedin.com/in/cheng-chun-lin)
   - Email: allen01690@gmail.com
   
 
