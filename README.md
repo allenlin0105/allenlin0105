@@ -1,6 +1,6 @@
 # Hi 👋
 
-- 🌱 I’m currently learning iOS development!
+- 🌱 I’m currently learning iOS development and deep learning!
 - 📫 How to reach me
   - [LinkedIn](https://www.linkedin.com/in/cheng-chun-lin/)
   - Email: allen01690@gmail.com
