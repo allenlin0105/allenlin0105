@@ -1,6 +1,6 @@
-# Hi 👋
+# Welcom to my GitHub 👋
 
-- 🌱 I’m currently learning iOS development and deep learning!
+- 🌱 I’m currently learning deep learning and mainly focusing on recommendation topics!
 - 📫 How to reach me
   - [LinkedIn](https://www.linkedin.com/in/cheng-chun-lin/)
   - Email: allen01690@gmail.com
